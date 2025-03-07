@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Lorrainy Pâmela 👋
-
-#### Estudante de Sistemas da Informação Puc Minas 
+#### Formada em Análise e Desenvolvimento de Sistemas - Estácio
+#### Estudante de Sistemas da Informação - Puc Minas 
 
 ### Contato:
 
